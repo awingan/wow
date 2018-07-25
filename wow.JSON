@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "name": "Cathedral Falls",
+    "imageUrl": "https://raw.githubusercontent.com/awingan/myexam/master/1.jpg",
+    "price": 2000,
+    "priceCurrency": "₱",
+    "lat": 7.870576,
+    "lng": 123.771660
+  },
+  {
+    "id": 2,
+    "name": "Nagaparan Waterfalls",
+    "imageUrl": "https://raw.githubusercontent.com/awingan/myexam/master/2.jpg",
+    "price": 300,
+    "priceCurrency": "₱",
+    "lat": 17.786609,
+    "lng": 120.639515
+  },
+  {
+    "id": 3,
+    "name": "Tagaytay Picnic View",
+    "imageUrl": "https://raw.githubusercontent.com/awingan/myexam/master/3.jpg",
+    "price": 150,
+    "priceCurrency": "₱",
+    "lat": 14.124615, 
+    "lng": 120.998131
+  },
+  {
+    "id": 4,
+    "name": "Baguio Mountain View",
+    "imageUrl": "https://raw.githubusercontent.com/awingan/myexam/master/4.jpg",
+    "price": 250,
+    "priceCurrency": "₱",
+    "lat": 16.410906,
+    "lng": 120.578288
+  },
+  {
+    "id": 5,
+    "name": "Bangui WIndmills",
+    "imageUrl": "https://raw.githubusercontent.com/awingan/myexam/master/5.jpg",
+    "price": 600,
+    "priceCurrency": "₱",
+    "lat": 18.528562, 
+    "lng": 120.718124
+  },
+  {
+    "id": 6,
+    "name": "Enchanted River",
+    "imageUrl": "https://raw.githubusercontent.com/awingan/myexam/master/6.jpg",
+    "price": 499,
+    "priceCurrency": "₱",
+    "lat": 8.458767,
+    "lng": 126.354773
+  },
+  {
+    "id": 7,
+    "name": "Tinago Falls",
+    "imageUrl": "https://raw.githubusercontent.com/awingan/myexam/master/7.jpg",
+    "price": 15,
+    "priceCurrency": "₱",
+    "lat": 8.159270,
+    "lng": 124.185973
+  },
+  {
+    "id": 8,
+    "name": "Samal Island",
+    "imageUrl": "https://raw.githubusercontent.com/awingan/myexam/master/8.jpg",
+    "price": 15,
+    "priceCurrency": "₱",
+    "lat": 7.102662,
+    "lng": 125.718995
+  },
+  {
+    "id": 9,
+    "name": "Dumaguete Light House",
+    "imageUrl": "https://raw.githubusercontent.com/awingan/myexam/master/9.jpg",
+    "price": 15,
+    "priceCurrency": "₱",
+    "lat": 13.239241,
+    "lng": 123.691451
+  },
+  {
+    "id": 10,
+    "name": "Camotes Island",
+    "imageUrl": "https://raw.githubusercontent.com/awingan/myexam/master/10.jpg",
+    "price": 15,
+    "priceCurrency": "₱",
+    "lat": 10.665944, 
+    "lng": 124.357159
+  },
+   {
+    "id": 11,
+    "name": "Black Nazarene Windmill",
+    "imageUrl": "https://raw.githubusercontent.com/awingan/myexam/master/11.jpg",
+    "price": 15,
+    "priceCurrency": "₱",
+    "lat": 18.534170, 
+    "lng": 120.647687
+  },
+  {
+    "id": 12,
+    "name": "Batad Rice Terraces",
+    "imageUrl": "https://raw.githubusercontent.com/awingan/myexam/master/12.jpg",
+    "price": 15,
+    "priceCurrency": "₱",
+    "lat": 16.935469, 
+    "lng": 121.134822
+  },
+  {
+    "id": 13,
+    "name": "Tambobong Beach Dasol",
+    "imageUrl": "https://raw.githubusercontent.com/awingan/myexam/master/13.jpg",
+    "price": 15,
+    "priceCurrency": "₱",
+    "lat": 15.926516, 
+    "lng": 119.776561
+  },
+  {
+    "id": 14,
+    "name": "FAMILY HOUSE. SAN GABRIEL LA UNION",
+    "imageUrl": "https://raw.githubusercontent.com/awingan/myexam/master/14.jpg",
+    "price": 15,
+    "priceCurrency": "₱",
+    "lat": 16.674377,
+    "lng": 120.402748
+  },
+]
